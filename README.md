@@ -10,7 +10,7 @@
 ### Project Aim: 
 #### The aim of this prediction is to identify potential customers who are more likeye to be intersted in credit card. In this project i used "FOUR" machine learning algorithm and check which algorithm perform well on this data.
 
-### The algorithms are.
+### The algorithms are used.
 #### 1.Logestic Regression
 #### 2.Decision Tree
 #### 3.Random Forest
