@@ -1,4 +1,4 @@
-## Credit-Card-lead-Generation-Using-Machine-Learning
+## Credit-Card-lead-Generation Prediction-Using-Machine-Learning
 
 ### About The Dataset:
 #### In this project or case, the bank wants to cross-sell its credit cards to its existing customers.the bank has identified a set of customers that are eligible for taking these credit cards
