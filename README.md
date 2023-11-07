@@ -17,4 +17,4 @@
 #### 4.Ada boost Classifer
 
 ### Final conculsion: 
-#### As we see that all models gives realtively same accuracy_score but the "DECISION TREE" model is having high accuracy score as compared to all other models... so we consider "DECISION TREE" model for this data set
+#### As i see that all models gives realtively same accuracy_score but the "DECISION TREE" model is having high accuracy score as compared to all other models... so we consider "DECISION TREE" model for this data set
